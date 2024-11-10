@@ -1,4 +1,4 @@
-"use strict"; // tret all JS code as newer version
+"use strict"; // tret all JS code as newer version but by default it teat as newr version in latest
 // alert(3+3) we are using node js not browser. So this we will not work here only
 
 let name = "Akash"
